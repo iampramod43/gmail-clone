@@ -4,7 +4,7 @@ import firebase from 'firebase';
 
 const firebaseConfig = {
     apiKey: "AIzaSyBEJOO040guvWbxtaGpUse1CZqNGKtN8OU",
-    authDomain: "mygamail.firebaseapp.com",
+    authDomain: "clone-d7bd8.firebaseapp.com",
     projectId: "clone-d7bd8",
     storageBucket: "clone-d7bd8.appspot.com",
     messagingSenderId: "738560192738",

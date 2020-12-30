@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "mygamail",
     "public": "build",
     "ignore": [
       "firebase.json",
